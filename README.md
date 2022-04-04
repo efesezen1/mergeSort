@@ -1,4 +1,4 @@
-# mergeSort
+# Merge Sort Project
 Merge sort mock project for Kodluyoruz.com bootcamp prep.
 ```		
 		   [16,21,11,8,12,22]
